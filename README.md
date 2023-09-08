@@ -5,7 +5,7 @@
 - Remover um produto existente na lista
 - Consultar a quantidade de produtos em estoque com base no nome do produto
 
-OBS:. Siga o paradigma de Orientação a Objetos (utilize Arrays em essa soluçã
+OBS:. Siga o paradigma de Orientação a Objetos (utilize Arrays em essa solução.
 
 2) Implemente um programa em JavaScript que armazene uma lista de alunos e suas respectivas notas em um Array. Escreva um método que permita adicionar um novo aluno na lista com suas respectivas notas. Em seguida,  um método que calcule a média.  Por fim crie um botão que após clicado exiba o nome do aluno, seu número de matricula, nome e média.
 
@@ -21,5 +21,5 @@ Nota:
 - Apenas tarefas concluídas podem ser excluidas
 - Não deve ser permitido adicionar tarefas iguais
 
-Obs: use como base o exercício de exemplo
+OBS:. Use como base o exercício de exemplo
 
